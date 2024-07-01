@@ -5,7 +5,7 @@ CourseHub brings together all the previous year questions, notes, and lecture sl
 # Design Of The Pages
 
 **Login Page:**
-![WhatsApp Image 2024-07-01 at 06 50 21](https://github.com/involk-secure-1609/CourseHub-/assets/133996079/81345d1b-d629-4461-9428-aa996d1223af)
+![1](https://github.com/involk-secure-1609/CourseHub-/assets/133996079/405cab28-d880-440b-90a8-3ea653fdffe3)
 
 **Sign Up Page:**
 
